@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "question": "What digital marketing services do you offer?",
+    "answer": "We offer a comprehensive range of services including Search Engine Optimization (SEO), Pay-Per-Click advertising (PPC/Google Ads), Social Media Marketing and Management, Content Marketing, Email Marketing Campaigns, Website Design and Development, Brand Strategy Consulting, and detailed Monthly Analytics Reporting.",
+    "category": "services"
+  },
+  {
+    "id": 2,
+    "question": "How much do your services cost?",
+    "answer": "Our pricing is flexible and depends on your business goals. Our Starter Plan begins at ₹15,000/month, covering basic SEO and social media management for 2 platforms. The Growth Plan is ₹35,000/month and adds PPC management and content creation. Our Enterprise Plan starts at ₹75,000/month for full-service digital marketing. Custom packages are also available — contact us for a tailored quote.",
+    "category": "pricing"
+  },
+  {
+    "id": 3,
+    "question": "How long does SEO take to show results?",
+    "answer": "SEO is a long-term strategy. You can typically expect to see initial improvements in rankings and organic traffic within 3–4 months. Significant and sustained results usually take 6–12 months, depending on your industry's competitiveness, your website's current state, and the quality of your existing content. We provide monthly reports so you can track progress clearly.",
+    "category": "seo"
+  },
+  {
+    "id": 4,
+    "question": "Do you manage social media accounts?",
+    "answer": "Yes, we offer full Social Media Management. This includes content strategy, graphic design, copywriting, scheduling, publishing, and audience engagement (responding to comments and messages). We work with Instagram, Facebook, LinkedIn, Twitter/X, and YouTube. Each plan includes a content calendar and monthly performance report.",
+    "category": "social_media"
+  },
+  {
+    "id": 5,
+    "question": "Which social media platforms do you work with?",
+    "answer": "We work with all major platforms: Instagram, Facebook, LinkedIn, Twitter/X, YouTube, Pinterest, and Google Business Profile. We recommend the best platforms based on your target audience and business type. For example, B2B businesses benefit most from LinkedIn, while e-commerce brands tend to perform best on Instagram and Facebook.",
+    "category": "social_media"
+  },
+  {
+    "id": 6,
+    "question": "How do I get started with PixelFlow?",
+    "answer": "Getting started is simple. First, book a free 30-minute discovery call through our website or email us at hello@pixelflow.in. We'll understand your business goals and current challenges. Then, our team will send a customised proposal within 48 hours. Once you approve, we onboard you within 5 business days and kick off the campaign.",
+    "category": "onboarding"
+  },
+  {
+    "id": 7,
+    "question": "Do you create content like blogs, videos, and graphics?",
+    "answer": "Yes, content creation is a core service. We create SEO-optimised blog articles, social media graphics, short-form Reels/videos, infographics, email newsletters, and ad creatives. Our in-house team includes copywriters, graphic designers, and video editors. Content is always brand-aligned and reviewed before publishing.",
+    "category": "content"
+  },
+  {
+    "id": 8,
+    "question": "What is your refund or cancellation policy?",
+    "answer": "We offer a 30-day notice period for service cancellations. If you are unsatisfied within the first 15 days of onboarding, we offer a partial refund on a case-by-case basis. Once a campaign is live and ad spend has been committed, those costs are non-refundable. Retainer fees for completed work are non-refundable. We do not lock clients into long-term contracts by default.",
+    "category": "policy"
+  },
+  {
+    "id": 9,
+    "question": "How do you measure the success of a campaign?",
+    "answer": "We track KPIs tailored to your goals. Common metrics include: website traffic and organic rankings (for SEO), Cost Per Click, CTR, and ROAS (for PPC), follower growth and engagement rate (for social media), open rates and conversions (for email marketing). You receive a detailed monthly dashboard report with insights and next-month recommendations.",
+    "category": "reporting"
+  },
+  {
+    "id": 10,
+    "question": "Do you work with small businesses and startups?",
+    "answer": "Absolutely. We specialize in working with small and medium enterprises (SMEs) and startups. Our Starter Plan is designed specifically for businesses with limited budgets who want to build an online presence. We understand the constraints of early-stage businesses and offer scalable solutions that grow with you.",
+    "category": "clients"
+  },
+  {
+    "id": 11,
+    "question": "What is the turnaround time for deliverables?",
+    "answer": "Turnaround times depend on the deliverable type. A social media content calendar takes 5–7 business days. Blog articles take 3–5 business days. A website design project typically takes 3–6 weeks. Ad campaigns can be launched within 2–3 business days after creative approval. We share a project timeline at the start of every engagement.",
+    "category": "operations"
+  },
+  {
+    "id": 12,
+    "question": "Do you run Google Ads and paid advertising campaigns?",
+    "answer": "Yes, we are certified Google Ads partners and manage PPC campaigns across Google Search, Display, Shopping, and YouTube ads. We also run paid social campaigns on Meta (Facebook/Instagram), LinkedIn Ads, and Twitter Ads. We handle everything from keyword research, ad copywriting, A/B testing, and bid management to weekly performance reporting.",
+    "category": "ppc"
+  },
+  {
+    "id": 13,
+    "question": "Can you redesign or build my website?",
+    "answer": "Yes, we offer full website design and development services. We build responsive, SEO-ready websites on WordPress, Webflow, Shopify, and custom HTML/CSS/JS stacks. A standard 5-page business website takes 3–4 weeks. E-commerce stores typically take 5–8 weeks depending on the number of products. All websites include basic SEO setup, speed optimisation, and a 30-day post-launch support period.",
+    "category": "web_design"
+  },
+  {
+    "id": 14,
+    "question": "How can I contact support or speak to someone?",
+    "answer": "You can reach us in several ways: Email us at support@pixelflow.in for non-urgent queries (response within 24 hours). For urgent matters, WhatsApp or call us at +91-98765-43210 (Mon–Fri, 10am–6pm IST). Existing clients have access to a dedicated Slack channel for real-time communication with their account manager.",
+    "category": "support"
+  },
+  {
+    "id": 15,
+    "question": "What is included in your monthly reports?",
+    "answer": "Our monthly reports cover: SEO metrics (keyword rankings, organic traffic, backlinks), PPC metrics (impressions, clicks, cost, conversions, ROAS), social media analytics (reach, engagement, follower growth), website analytics (sessions, bounce rate, top pages), and a written summary with key wins, challenges, and the strategy for the next month. Reports are delivered on the 5th of each month via email.",
+    "category": "reporting"
+  },
+  {
+    "id": 16,
+    "question": "Do you offer a free consultation or audit?",
+    "answer": "Yes! We offer a free 30-minute strategy call and a complimentary website/social media audit for all new prospects. During the audit, we analyse your current online presence, identify gaps, and provide actionable quick wins. There is no obligation to sign up. Book your free audit at pixelflow.in/free-audit or email us at hello@pixelflow.in.",
+    "category": "onboarding"
+  }
+]
