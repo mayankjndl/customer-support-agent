@@ -23,4 +23,4 @@ requests==2.32.3              # HTTP client for weather + currency APIs
 python-dotenv==1.0.1          # Load .env file into os.environ
 
 # ── Data Validation (bundled with FastAPI) ──────────────
-pydantic==2.9.2               # Request/response schema validation
+pydantic==2.7.4               # Request/response schema validation
