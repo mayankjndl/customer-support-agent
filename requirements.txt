@@ -10,7 +10,7 @@ groq==0.11.0              # Groq Python SDK
 
 # ── RAG: Embeddings ─────────────────────────────────────
 sentence-transformers==3.2.0  # all-MiniLM-L6-v2 embedding model
-torch==2.4.0                  # PyTorch backend for sentence-transformers
+torch==2.9.0                  # PyTorch backend for sentence-transformers
 
 # ── RAG: Vector Store ───────────────────────────────────
 faiss-cpu==1.8.0              # FAISS vector similarity search (CPU version)
